@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+h1 {
+  margin: 0 0;
+  padding-top: 80px;
+  color: #9fd3c7;
+  font-family: 'Sacramento', cursive;
+  font-size: 3.125rem;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color:  #9fd3c7;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #142d4c;
+  margin-bottom: 5px;
+}
+p {
+  color: #ececec;
+  margin: 0.3125rem;
+  line-height: 2;
+}
+div {
+  background-color: #385170;
+}
+a {
+  color: #142d4c;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 20px;
+  border-color: #ececec;
+  width: 15%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.hello {
+  float: right;
+  text-align: left;
+  padding-top: 16%;
+  font-size: 14px;
+  font-style: italic;
+}
+.profile img {
+  height: 280px;
+  width: 280px;
+  border-radius: 100%;
+}
+.top-cloud {
+  position: absolute;
+  top: 260px;
+  right: 29.375rem;
+  z-index: 1;
+}
+.bottom-cloud {
+  position: absolute;
+  right: 48rem;
+  top: 23rem;
+}
+.mountain {
+position: relative;
+z-index: 2;
+}
+.slogan {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.0625rem;
+  color: #9fd3c7;
+  font-weight: normal;
+  padding-bottom: 60px;
+}
+.skill-row {
+  width: 55%;
+  margin: 100px auto;
+  text-align: left;
+}
+.profile-row {
+margin: auto;
+width: 45%;
+padding: 3% 0;
+}
+.videoedit {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.code {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.fb-ads {
+  width: 20%;
+  float: right;
+  margin-right: 30px;
+}
+.contact-me p {
+  padding-bottom: 50px;
+}
+.contact-me {
+  padding-bottom: 80px;
+}
+.btn {
+
+      padding: 15px 30px 15px 30px;
+      font-weight: 600;
+      background-color: #ececec;
+      -webkit-border-radius: 5px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 20px;
+}
+.btn:hover {
+  background: #9fd3c7;
+text-decoration: none;
+}
+.envelope {
+  font-size: 23px;
+  text-align: center;
+}
+.bottom-container p {
+    color: #142d4c;
+    margin: 0;
+  }
+
+.bottom-container {
+  background-color: #ececec;
+  padding-top: 10px;
+}
+.footer-link {
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  margin-right: 5px;
+}
+.intro {
+  width: 40%;
+  margin: auto;
+}
